@@ -2,7 +2,7 @@
 Built a static digital to get hand on practice about styling, folder structure, components, JSX in React. 
 
 ### OUTPUT 
-<img src="https://github.com/void-hr/static-digital-card/blob/main/digital-card-sc.PNG" style="height:400px; width:auto"/>
+<div align="center"><img src="https://github.com/void-hr/static-digital-card/blob/main/digital-card-sc.PNG" style="height:600px; width:auto"/></div>
 
 
 #### Concepts I have learned by bulding this static digital card
