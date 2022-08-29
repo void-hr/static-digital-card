@@ -1,0 +1,14 @@
+
+body,html {
+  margin: 0;
+  padding: 0;
+  background-color: #23252C;
+}
+
+:root {
+  font-family: Inter, Avenir, Helvetica, Arial, sans-serif;
+  color-scheme: light dark;
+  color: rgba(255, 255, 255, 0.87);
+ 
+}
+
